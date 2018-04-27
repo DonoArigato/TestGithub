@@ -1,0 +1,39 @@
+body{
+    
+    text-align: center;
+    color:#F8F8FF;
+    background-color:#8A9A5B;
+    text-align: center;
+    }
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.photo-intro {
+    display: flex;
+    justify-content: space-between; 
+    justify-content: center; 
+}
+
+.photo, .intro {
+    margin: 20px; 
+}
+
+img {
+    width: 500px;
+    height: 500px; 
+}
+
+.about-interests {
+    display: flex;
+    justify-content: space-between; 
+    justify-content: center; 
+}
+.about, .interests{
+    border: 10px solid white;
+    margin: 20px; 
+    height: 500px;
+    width: 500px; 
+}
+}
